@@ -1,4 +1,4 @@
-## Hand Movement Tracking [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/HandMovementTracking/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+## Hand Movement Tracking 
 This code helps you to understand and track your hand movement using webcam.
 
 ### Code Requirements
